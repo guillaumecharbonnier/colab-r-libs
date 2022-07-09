@@ -1,0 +1,6 @@
+apeglm                  Approximate posterior estimation for GLM
+                        coefficients
+bbEstDisp               Simple line-search estimator for dispersion of
+                        a beta binomial
+logLikNB                Log likelihood for Negative Binomial
+svalue                  Local FSR to svalue
